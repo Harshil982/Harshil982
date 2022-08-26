@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Harshil982
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 MERN Developer
+- 💞️ I’m looking to collaborate on MERN Developement
 - 📫 How to reach me ...
+  LinkedIn : https://www.linkedin.com/in/harshilsinh-rajput/
+  Mail-Id : rajputharshil98200@gmail.com
 
 <!---
 Harshil982/Harshil982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
