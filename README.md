@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MERN Developement
 - 📫 How to reach me ...
   LinkedIn : https://www.linkedin.com/in/harshilsinh-rajput/
-  Mail-Id : rajputharshil98200@gmail.com
+  Mail-Id : rajputharshil982002@gmail.com
 
 <!---
 Harshil982/Harshil982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
